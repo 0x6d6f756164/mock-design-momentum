@@ -6,7 +6,7 @@ export function Footer() {
           Momentum
         </span>
         <p className="text-sm">
-          &copy; {new Date().getFullYear()} Momentum. All rights reserved.
+          &copy; {new Date().getFullYear()} Momentum. Mock Design
         </p>
       </div>
     </footer>
