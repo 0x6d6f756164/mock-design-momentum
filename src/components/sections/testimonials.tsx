@@ -2,19 +2,19 @@ import { Reveal } from "@/components/ui/reveal";
 
 const testimonials = [
   {
-    name: "Elena Cho",
+    name: "Elena C.",
     role: "VP Marketing, Northwind",
     quote:
       "Momentum rebuilt our entire paid strategy in a month. Pipeline hasn't looked this healthy in two years.",
   },
   {
-    name: "Marcus Webb",
+    name: "Marcus W.",
     role: "Founder, Loom & Co",
     quote:
       "First agency that talked about payback period on day one instead of impressions. Refreshing.",
   },
   {
-    name: "Priya Nair",
+    name: "Priya N.",
     role: "Growth Lead, Vertex",
     quote:
       "They cut our CAC almost in half while keeping volume flat. That never happens.",
